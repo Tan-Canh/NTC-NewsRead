@@ -1,2 +1,2 @@
 # NTC-NewsRead
-it is  tell a way work with api and news reader
+a way API calls and use to api news reader
